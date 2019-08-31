@@ -6,7 +6,7 @@ allowing to constraint the motion of these atoms during simulations in VASP.
 Note that this script can only treat the situation of fixing specified layers
 along z axis.
 ------------------------------------------------------------------------------
-Authors: ShuangLeung (sleung1924@gmail.com)                         
+Author: ShuangLeung (sleung1924@gmail.com)                         
 Date of last version: 2019/08/28
 ------------------------------------------------------------------------------
 '''
