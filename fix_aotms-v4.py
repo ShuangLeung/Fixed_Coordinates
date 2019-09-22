@@ -117,7 +117,7 @@ else:
 			break
 		else:
 			print("ERROR: The input filename doesn't exist!!! Please retype the filename again.\n")
-			active1 = True
+			active2 = True
 
 print("A new fix-atoms file called 'FPOSCAR' has been created! Please have a check!")
 
